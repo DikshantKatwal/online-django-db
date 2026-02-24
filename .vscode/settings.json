@@ -1,0 +1,11 @@
+{
+  "editor.formatOnSaveMode": "modificationsIfAvailable",
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+
+  },
+      "files.exclude": {
+    "**/__pycache__": true,
+    "**/*.pyc": true
+  }
+}
